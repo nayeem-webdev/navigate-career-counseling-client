@@ -66,6 +66,43 @@ Navigate simplifies client booking and service management for companies by provi
 
 ---
 
+## 🛠️ How to Run the Project Locally
+
+To run this project on your local machine, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/nayeem-webdev/navigate-career-counseling-client.git
+   cd navigate-career-counseling-client
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the Development Server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Access the App:**
+   Open your browser and navigate to `http://localhost:3000` to view the app.
+
+5. **Build for Production:**
+   To create an optimized build, run:
+   ```bash
+   npm run build
+   ```
+
+6. **Preview Production Build:**
+   After building, you can preview the app with:
+   ```bash
+   npm run preview
+   ```
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -74,11 +111,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📩 Contact
 
-For inquiries or feedback, reach out to us:
-- **Company:** Navigate
-- **Email:** [support@navigate.com](mailto:support@navigate.com)
-- **Website:** [Navigate Official Website](https://navigate-career-counseling.web.app/)
-
+Have questions or feedback? Feel free to reach out:
+- **Developer:** Nayeem-webdev
+- **Email:** [nayeem.webdev@gmail.com](mailto:nayeem.webdev@gmail.com)
+- 
 ---
 
 ### Built with 💻 and passion for seamless client management!
